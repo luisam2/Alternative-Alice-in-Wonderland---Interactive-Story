@@ -1,6 +1,6 @@
-# Alternative-Alice-in-Wonderland---Interactive-Story
+# Alternative-Alice-in-Wonderland-Interactive-Story
 
-ALTERNATIVE ALICE IN WONDERLAND LINKS
+LINKS
 
 PDF con todos los links y contexto general y REQUERIMIENTOS del taller:
 https://drive.google.com/file/d/1TsQaEkQjr-fq0B_iepASMPau7ouNO6JK/view?usp=sharing
